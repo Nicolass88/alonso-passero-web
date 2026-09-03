@@ -1,0 +1,11 @@
+<svg width="1500" height="560" viewBox="0 0 1500 560" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="560" height="560" fill="#FFFFFF"/>
+  <text x="75" y="380" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-weight="700" font-size="270" fill="#1B2B44">A</text>
+  <text x="220" y="380" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-weight="700" font-size="270" fill="#1B2B44">P</text>
+  <text x="325" y="380" font-family="Fraunda, Georgia, 'Times New Roman', serif" font-weight="700" font-size="270" fill="#1B2B44">G</text>
+  <text x="640" y="255" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="86" fill="#FFFFFF">Alonso &amp; </text>
+  <text x="640" y="255" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="86" fill="#FFFFFF" opacity="0"> </text>
+  <text x="640" y="255" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="86" fill="#FFFFFF">Alonso &amp;</text>
+  <text x="640" y="355" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="86" fill="#FFFFFF">Passero Gavier</text>
+  <text x="642" y="410" font-family="Arial, sans-serif" font-size="30" letter-spacing="5" fill="#B9C2CC">ESTUDIO JUR&#205;DICO</text>
+</svg>
